@@ -1,0 +1,16 @@
+opencv-python
+numpy
+pyautogui
+mediapipe
+pyttsx3
+smtplib
+SpeechRecognition
+wikipedia
+webbrowser
+pywhatkit
+pyjokes
+speedtest-cli
+requests
+PyQt5
+PyDictionary
+PyPDF2
